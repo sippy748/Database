@@ -1,2 +1,4 @@
 # Database
-SQK
+SQL
+
+For topics and theories look into the Theory.md file
